@@ -1,5 +1,5 @@
 
-describe('#binaryMatch', function() {
+describe('#buildHistogram', function() {
 	let magazine = ["h", "e", "r", "e", "a", "r", "e", "s", "o", "m",
 	"e", "n", "i", "c", "e", "c", "l", "o", "t", "h", "e", "s", "t"]
 	it("collects assigns each letter as a key and the number of occurrences as the value", function() {
